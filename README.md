@@ -5,7 +5,10 @@
     name: 'Paige Gorry',
     pronouns: ['she', 'her'],
     age: 27,
-    location: 'Portland, OR',
+    location: {
+      city: 'Portland',
+      state: 'Oregon',
+    },
     currentJob: {
       title: 'Software Engineer',
       company: 'Nike',
