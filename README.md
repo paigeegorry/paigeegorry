@@ -6,7 +6,10 @@
     pronouns: ['she', 'her'],
     age: 27,
     location: 'Portland, OR',
-    currentJob: 'Software Engineer at Nike',
+    currentJob: {
+      title: 'Software Engineer',
+      company: 'Nike',
+    },
     contact: {
       linkedIn: 'https://linkedin.com/in/paigeegorry',
       email: 'paigeegorry@gmail.com',
