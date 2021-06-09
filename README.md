@@ -10,8 +10,8 @@
       state: 'Oregon',
     },
     currentJob: {
-      title: 'Software Engineer',
-      company: 'Nike',
+      title: 'Software Engineer II',
+      company: 'SurveyMonkey',
     },
     contact: {
       linkedIn: 'https://linkedin.com/in/paigeegorry',
@@ -23,7 +23,7 @@
       name: 'Molly',
       type: 'Canine',
       breed: 'French Bulldog',
-      age: '11 months',
+      age: '1 year',
       instagram: '@molly.pdx',
     },
    };
