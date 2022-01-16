@@ -4,7 +4,7 @@
   const paigeegorry = {
     name: 'Paige Gorry',
     pronouns: ['she', 'her'],
-    age: 27,
+    age: 28,
     location: {
       city: 'Portland',
       state: 'Oregon',
@@ -23,7 +23,6 @@
       name: 'Molly',
       type: 'Canine',
       breed: 'French Bulldog',
-      age: '1 year',
       instagram: '@molly.pdx',
     },
    };
