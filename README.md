@@ -4,7 +4,7 @@
   const paigeegorry = {
     name: 'Paige Gorry',
     pronouns: ['she', 'her'],
-    age: 28,
+    age: 29,
     location: {
       city: 'Portland',
       state: 'Oregon',
