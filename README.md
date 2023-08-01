@@ -11,7 +11,7 @@
     },
     currentJob: {
       title: 'Software Engineer II',
-      company: 'SurveyMonkey',
+      company: 'Hinge Health',
     },
     contact: {
       linkedIn: 'https://linkedin.com/in/paigeegorry',
