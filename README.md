@@ -4,13 +4,13 @@
   const paigeegorry = {
     name: 'Paige Gorry',
     pronouns: ['she', 'her'],
-    age: 30,
+    age: 30s,
     location: {
       city: 'Portland',
       state: 'Oregon',
     },
     currentJob: {
-      title: 'Software Engineer II',
+      title: 'Senior Software Engineer',
       company: 'Hinge Health',
     },
     contact: {
